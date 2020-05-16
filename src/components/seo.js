@@ -76,7 +76,7 @@ SEO.defaultProps = {
   lang: `es`,
   meta: [],
   keywords: [
-    'design','madeira','carpintaria'
+    'company','electric','tbpoweron', 'tampa bay', 'power', 'entrerprise', 'electrical', 'corp', 'services'
   ]
 };
 
