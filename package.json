@@ -1,0 +1,41 @@
+{
+  "name": "tbpoweron",
+  "description": "Electric business of tampa florida",
+  "version": "1.0.0",
+  "author": "Alejandro Llorente",
+  "dependencies": {
+    "firebase-tools": "^8.2.0",
+    "gatsby": "^2.19.32",
+    "gatsby-plugin-alias-imports": "^1.0.5",
+    "gatsby-plugin-manifest": "^2.2.44",
+    "gatsby-plugin-offline": "^3.0.37",
+    "gatsby-plugin-postcss": "^2.2.1",
+    "gatsby-plugin-react-helmet": "^3.1.23",
+    "gatsby-plugin-robots-txt": "^1.5.0",
+    "gatsby-plugin-sass": "^2.1.30",
+    "gatsby-plugin-sitemap": "^2.3.1",
+    "gatsby-source-datocms": "^2.1.29",
+    "global": "^4.4.0",
+    "node-sass": "^4.13.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-helmet": "^5.2.1",
+    "react-images": "^1.0.0",
+    "react-masonry-component": "^6.2.1"
+  },
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "build": "gatsby build",
+    "develop": "gatsby develop",
+    "serve": "gatsby serve",
+    "format": "prettier --write '**/*.js'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "prettier": "^1.19.1"
+  }
+}
