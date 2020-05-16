@@ -5,10 +5,10 @@ var plugins = [{
       plugin: require('/Volumes/SSD Mojave/code/Gatsby/tbpoweron/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"POWER ENTERPRISE ELECTRICAL CORP.","short_name":"TB Poweron","description":"Electric business of tampa florida","start_url":"/","background_color":"#FFFFFF","theme_color":"#9D926B","display":"standalone","icon":"static/favicon.ico"},
     },{
-      plugin: require('/Volumes/SSD Mojave/code/Gatsby/tbpoweron/node_modules/gatsby-plugin-offline/gatsby-ssr'),
+      plugin: require('/Volumes/SSD Mojave/code/Gatsby/tbpoweron/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Volumes/SSD Mojave/code/Gatsby/tbpoweron/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Volumes/SSD Mojave/code/Gatsby/tbpoweron/node_modules/gatsby-plugin-offline/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:

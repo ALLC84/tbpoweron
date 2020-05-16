@@ -24,7 +24,6 @@ module.exports = {
       },
     },
     'gatsby-plugin-sass',
-    'gatsby-plugin-offline',
     'gatsby-plugin-sitemap',
     {
       resolve: `gatsby-plugin-alias-imports`,
@@ -58,5 +57,6 @@ module.exports = {
         configFile: 'robots-txt.config.js'
       }
     },
+    'gatsby-plugin-offline'
   ],
 }
